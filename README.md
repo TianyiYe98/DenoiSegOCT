@@ -7,4 +7,4 @@ This paper presents the first VIS-OCT retina image dataset for further machine-l
 
 ## DenoiSegOCT
 The code is modified and extended from [DenoiSeg](https://arxiv.org/abs/2005.02987).  
-[something](https://www.biorxiv.org/content/10.1101/2022.10.05.511048v1)
+[VIS-OCT system](https://www.biorxiv.org/content/10.1101/2022.10.05.511048v1)
