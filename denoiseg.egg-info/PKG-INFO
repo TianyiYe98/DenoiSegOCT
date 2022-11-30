@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: denoiseg
+Version: 0.3.0
+Summary: DenoiSeg
+Home-page: https://github.com/juglab/DenoiSeg/
+Author: Tim-Oliver Buchholz, Mangal Prakash, Alexander Krull, Florian Jug
+Author-email: tibuch@mpi-cbg.de, prakash@mpi-cbg.de, krull@mpi-cbg.de, jug@mpi-cbg.de
+License: BSD 3-Clause License
+Project-URL: Repository, https://github.com/juglab/DenoiSeg/
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+![Teaser: DenoiSeg](figs/visualization.png)
+# DESPECKSEG: SIMULTANEOUS SPECKLE NOISE REDUCTION AND LAYER SEGMENTATION FOR RETINA VISIBLE LIGHT OCT 
+
+
+
+## Reproducibility
+The current release and master is a refactored version of the code used for the paper. 
+This refactored version produces the same number as reported in the paper, but if you
+wish to use the exact code used in the paper, please continue [here](scripts/reproducibility/README.md).
+
+Further results (qualitative and quantitative) can be found on the [wiki](https://github.com/juglab/DenoiSeg/wiki).
+
+
