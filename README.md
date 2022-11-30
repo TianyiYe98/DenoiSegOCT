@@ -12,3 +12,5 @@ The dataset can be downloaded at [here](https://drive.google.com/drive/folders/1
 
 ## DenoiSegOCT
 The code is modified from [DenoiSeg](https://arxiv.org/abs/2005.02987).  
+
+<br/>The [Experiments notebook](https://github.com/TianyiYe98/DenoisegOCT/blob/main/Experiments.ipynb) demonstrates the preprocessing, data preparation, training and visualization of DenoiSegOCT. 
